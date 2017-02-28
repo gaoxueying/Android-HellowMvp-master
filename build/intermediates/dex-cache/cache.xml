@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_fc6b63b17978c8f6dca2bb3c3dde8ff1f644c9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_a6dfc3ecd04b15b5f85c6516a756338c3a9ce3c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d0d35fc6658d98f3c1cd1201992185187febe06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_86922ab97d5e4d673df663266afac11169994538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_5fae836a647121fd6ef8b6276bf254f3e905b45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_76c5a9e73421511ad55cf7265013bd4b5ffedb8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_6ff2f92402631c925f11bd2fcfb9639b7f70310d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_62bd049d4122d1402181c231797eb65a7dfa4867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47f7202e4b01e19e84edc49804531e7569c8b8a7">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\instant-run_c515025b2961373241f8199ceb3bfb9539e7af79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_843584242aec25bcbc5e4aaabe47d9345e84fee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="34631faffdbd308b372bf83fa40c4274817b73a7">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b36086927c36843912c1bea43327a73be7639fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\MyWorkSpace\AndroidStudio\MVP-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_0a1ea8f5e8a8c3b10ed5c35ae6febfaf11c24198.jar" />
+    </item>
+
+</items>
